@@ -101,7 +101,7 @@ ClientBin
 ~$*
 *.dbmdl
 .bin
-node_modules
+#node_modules
 
 Generated_Code #added for RIA/Silverlight projects
 
